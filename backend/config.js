@@ -1,0 +1,3 @@
+JWT_SECRET = "8Z45M0WUk50s5WcG2jt6zynmyuDW3V7cLcwX3Q5bVXU="
+
+module.exports = JWT_SECRET 
